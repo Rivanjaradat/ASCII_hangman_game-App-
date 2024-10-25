@@ -1,5 +1,5 @@
 
-### ASCII Hangman Game
+#  ASCII Hangman Game
 
 🔍 Description:An Android application that implements an ASCII-based Hangman game, designed in Android Studio for ENCS5150 course - Advanced Computer Systems Engineering Laboratory..
 ## Overview
